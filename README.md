@@ -62,7 +62,7 @@ Through Womanhood, we aim at solving this barrier for women to connect with doct
 - Download and Install Xampp using link  :- https://www.apachefriends.org/download.html
 - Download the Zip or clone the repository using command : -
   ``` bash
-  git clone https://github.com/Harsh-1309/woman-hood.git
+  git clone https://github.com/yasharthratan/ISM-PROJECT_WOMANHOOD.git
   ```
 - Go to the directory where Xampp is installed. For eg. C:\xampp\htdocs
 - Copy the project folder and paste it in the address mentioned above.
